@@ -15,7 +15,11 @@ and after run type ~delete caches or ~delete cache and exit.
 for start xan file you always must use "void main or mains(" code.
 show "hello world":
 
-"void main or mains(
+void main or mains(
 message.show("hello world!")
-"
 
+
+example of Set a variable:
+void main or mains(
+hello : "hello world"
+message.show(hello)
