@@ -13,3 +13,9 @@ if you file not run ,Close and open again xanthin_loader.py and type file name w
 and after run type ~delete caches or ~delete cache and exit.
 <h1>Syntex</h1>
 for start xan file you always must use "void main or mains(" code.
+show "hello world":
+
+"void main or mains(
+message.show("hello world!")
+"
+
