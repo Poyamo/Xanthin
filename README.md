@@ -4,4 +4,4 @@ this info for version 0.1 of xanthin.
 
 xanthin powered by Perl and fortran , python.
 
-#install
+<h1>install</h1>
