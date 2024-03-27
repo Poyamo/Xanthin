@@ -1,0 +1,8 @@
+void main or mains(
+#this comments can run in 0.1 version
+#hello world example
+message.show("Hello World")
+#varible example
+example : 7
+message.show(example)
+
