@@ -20,6 +20,12 @@ message.show("hello world!")
 
 
 example of Set a variable:
+
 void main or mains(
 hello : "hello world"
 message.show(hello)
+
+
+at this version not support if keyword.
+
+for learn you can go to "http://xanthin.loxblog.com/"
