@@ -1,3 +1,4 @@
+version 0.2 in coming...
 # Xanthin
 Xanthin programming language
 this info for version 0.1 of xanthin.
