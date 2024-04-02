@@ -1,4 +1,4 @@
-version 0.2 in coming...
+version 0.2 in now here!!
 # Xanthin
 Xanthin programming language
 this info for version 0.1 of xanthin.
@@ -24,8 +24,10 @@ example of Set a variable:
 
 void main or mains(
 hello : "hello world"
-message.show(hello)
+message.show?hello!;
 
+output:
+hello world
 
 at this version not support if keyword.
 
