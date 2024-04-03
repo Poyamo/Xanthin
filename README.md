@@ -1,3 +1,4 @@
+<img src="https://iili.io/JNnPlyb.md.png"/>
 version 0.2 in now here!!
 # Xanthin
 Xanthin programming language
