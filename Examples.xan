@@ -1,8 +1,8 @@
 void main or mains(
-#this comments can run in 0.1 version
+#this comments can run in 0.2 version
 #hello world example
-message.show("Hello World")
+message.show?"Hello World"!;
 #varible example
-example : 7
-message.show(example)
+inte example : 7
+message.show?inte example!;
 
