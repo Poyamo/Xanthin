@@ -1,0 +1,27 @@
+
+def rustRun(fname):
+	m = open(fname,"r")
+	k = m.read()
+	n = k.replace("println!","print")
+	kj = n.replace("fn main","def main")
+	vkon = kj.replace(".{",")")
+	help = vkon.replace("{",":")
+	dkk = help.replace("}","")
+	dhd = dkk+"\nmain()\n"
+	hjh = dhd.replace("use std::fs;","\nimport os\nimport shutil\n")
+	ka = hjh.replace("fn","def")
+	shsh = ka.replace(": &str","")
+	ba = shsh.replace("let ","")
+	da = ba.replace("fs::","")
+	sjjnss = da.replace("if ","if (")
+	ko = sjjnss.replace("{",":")
+	aA = ko.replace("use rustc::compile;","")
+	moa = aA.replace("r#","")
+	reda = moa.replace("#","")
+	xjzjxn = reda.replace("rustc::compile(","exec(")
+	huma = xjzjxn.replace(".unwrap();","")
+	lucky = huma.replace("{}","")
+	mkk = lucky.replace("xan2read","open")
+	exec(mkk.replace("fn","def"))
+	
+rustRun("MojoXanRun.rs")
