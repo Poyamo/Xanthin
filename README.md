@@ -27,8 +27,8 @@ message.show("hello world!")
 example of Set a variable:
 
 void main or mains(
-hello : "hello world"
-message.show?hello!;
+string hello : "hello world";
+message.show?string hello!;
 
 output:
 hello world
