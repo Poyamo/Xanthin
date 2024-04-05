@@ -33,3 +33,5 @@ hello world
 at this version not support if keyword.
 
 for learn you can go to "http://xanthin.loxblog.com/"
+
+<p>RustLoader only for xanthin codes, not work at more program</p>
