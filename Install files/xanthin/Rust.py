@@ -23,5 +23,3 @@ def rustRun(fname):
 	lucky = huma.replace("{}","")
 	mkk = lucky.replace("xan2read","open")
 	exec(lucky)
-	
-rustRun("MojoXanRun.rs")
