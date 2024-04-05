@@ -1,4 +1,4 @@
-#this compiler_def for android.
+#this compiler_def for all os's
 import os
 import shutil
 import importlib
