@@ -30,7 +30,7 @@ message.show?hello!;
 output:
 hello world
 
-at this version not support if keyword.
+at this version support if keyword.
 
 for learn you can go to "http://xanthin.loxblog.com/"
 
